@@ -3,6 +3,6 @@ This repository shows the implementation of the two-tier deep network method bas
 ## Requirements:
 PyTorch >= 1.06
 FEniCS 2019
-numpy, scipyy, pickle, matplotlib, meshio
+numpy, scipy, pickle, matplotlib, meshio
 
 Recommented to run in the Docker image in ```docker pull dhongyk/ttdn:latest```. 
